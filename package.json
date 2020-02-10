@@ -35,7 +35,8 @@
       {
         "provider": "github",
         "owner": "congwenmatoptal",
-        "repo": "electron-updater-congwen-toptal"
+        "repo": "electron-updater-example",
+        "token": "2a16f44679ea5672051017d300d9bb715fa8c90d"
       }
     ]
   }
