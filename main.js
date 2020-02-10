@@ -141,3 +141,4 @@ app.on('ready', function()  {
 //   autoUpdater.quitAndInstall();  
 // })
 console.log('*** Latest Ver. Number: 0.7.2');
+console.log('*** Latest Ver. Number: 0.7.3');
