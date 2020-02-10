@@ -6,9 +6,10 @@
   "author": "Congwen Toptal",
   "scripts": {
     "publish": "build -p always",
-    "build": "build -p always",
+    "build": "build --mac --win -p always",
     "NOTE:// used for testing purposes": "",
-    "pack": "electron-builder --dir"
+    "pack": "electron-builder --dir",
+    "electron-builder": "electron-builder"
   },
   "devDependencies": {
     "electron": "^3.0.2",
