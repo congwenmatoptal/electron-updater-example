@@ -20,7 +20,7 @@
     "electron-updater": "^4.0.6"
   },
   "build": {
-    "appId": "com.github.congwentoptal.electronupdaterexample",
+    "appId": "com.github.congwenmatoptal.electronupdaterexample",
     "mac": {
       "category": "your.app.category.type",
       "target": [
@@ -34,7 +34,7 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "congwentoptal",
+        "owner": "congwenmatoptal",
         "repo": "electron-updater-congwen-toptal"
       }
     ]
