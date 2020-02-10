@@ -143,3 +143,4 @@ app.on('ready', function()  {
 console.log('*** Latest Ver. Number: 0.7.2');
 console.log('*** Latest Ver. Number: 0.7.3');
 console.log('*** Latest Ver. Number: 0.7.4');
+console.log('*** Latest Ver. Number: 0.7.5');
