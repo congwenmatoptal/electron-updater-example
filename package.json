@@ -5,7 +5,10 @@
   "description": "electron-updater example project",
   "author": "Congwen Toptal",
   "scripts": {
-    "publish": "build -p always"
+    "publish": "build -p always",
+    "build": "build -p always",
+    "NOTE:// used for testing purposes": "",
+    "pack": "electron-builder --dir"
   },
   "devDependencies": {
     "electron": "^3.0.2",
@@ -23,6 +26,9 @@
         "zip",
         "dmg"
       ]
+    },
+    "nsis": {
+      "perMachine": true
     },
     "publish": [
       {
